@@ -1,5 +1,10 @@
 body {
-
   font-size: 7em;
   color: white;
+}
+p {
+  text-align: center;
+  text-decoration: none;
+  text-shadow: 2px grey;
+  width: auto;
 }
