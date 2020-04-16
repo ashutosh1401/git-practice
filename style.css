@@ -8,3 +8,13 @@ p {
   text-shadow: 2px grey;
   width: auto;
 }
+.btn {
+  background: green;
+  border-radius: 20%;
+  padding: 10px 10px 10px 10px;
+  margin-left: 250px;
+}
+.btn:hover {
+  background-color: blue;
+  transform: scale(1.5);
+}
